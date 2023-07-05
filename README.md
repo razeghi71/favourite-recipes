@@ -7,3 +7,4 @@ Here is a link to my favourite recipes:
 - [Tahchin](https://chishi.ir/65-tahchin-morgh/)
 - [Ghormeh Sabzi](https://www.digikala.com/mag/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D9%82%D9%88%D8%B1%D9%85%D9%87-%D8%B3%D8%A8%D8%B2%DB%8C/)
 - [Adas Polo](https://irancook.com/09/24/adas-polo/359/)
+- [Pirashki Goosht](https://chishi.ir/1278-pirashki-gousht/)
