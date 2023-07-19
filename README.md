@@ -9,3 +9,4 @@ Here is a link to my favourite recipes:
 - [Adas Polo](https://irancook.com/09/24/adas-polo/359/)
 - [Pirashki Goosht](https://chishi.ir/1278-pirashki-gousht/)
 - [Karafs](https://chishi.ir/22-khoresh-karafs/)
+- [Lasanga](https://chishi.ir/97-lazania/)
