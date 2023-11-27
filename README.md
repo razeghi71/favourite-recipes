@@ -11,3 +11,4 @@ Here is a link to my favourite recipes:
 - [Karafs](https://chishi.ir/22-khoresh-karafs/)
 - [Lasanga](https://chishi.ir/97-lazania/)
 - [Fesenjoon](https://blog.okala.com/how-to-cook-khoreshe-fesenjan/)
+- [Salam Olvieh](https://chishi.ir/211-salad-oloviye/)
